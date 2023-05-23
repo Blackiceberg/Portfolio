@@ -1166,7 +1166,7 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/wildEscape.gif");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1175,19 +1175,19 @@ body {
 }
 
 .item-2 {
-  background-image: url("../img/project-2.jpg");
+  background-image: url("../img/vendomeParis.jpg");
 }
 
 .item-3 {
-  background-image: url("../img/project-3.jpg");
+  background-image: url("../img/leRaven.jpg");
 }
 
 .item-4 {
-  background-image: url("../img/project-4.jpg");
+  background-image: url("../img/sangate.jpg");
 }
 
 .item-5 {
-  background-image: url("../img/project-5.jpg");
+  background-image: url("../img/billeterie.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-5 {
@@ -1196,7 +1196,7 @@ body {
 }
 
 .item-6 {
-  background-image: url("../img/project-6.jpg");
+  background-image: url("../img/ecoEnvironnement.jpg ");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-6 {
@@ -1205,31 +1205,31 @@ body {
 }
 
 .item-7 {
-  background-image: url("../img/project-7.jpg");
+  background-image: url("../img/novolux.jpg");
 }
 
 .item-8 {
-  background-image: url("../img/project-8.jpg");
+  background-image: url("../img/JDP.png");
 }
 
 .item-9 {
-  background-image: url("../img/project-9.jpg");
+  background-image: url("../img/KUSA.png");
 }
 
 .item-10 {
-  background-image: url("../img/project-10.jpg");
+  background-image: url("../img/Moontalkers.jpg");
 }
 
 .item-11 {
-  background-image: url("../img/project-11.jpg");
+  background-image: url("../img/orange.jpg");
 }
 
 .item-12 {
-  background-image: url("../img/project-12.jpg");
+  background-image: url("../img/Clem&co.jpg");
 }
 
 .item-13 {
-  background-image: url("../img/project-13.jpg");
+  background-image: url("../img/ligue1.png");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-13 {
@@ -1241,11 +1241,11 @@ body {
 }
 
 .item-14 {
-  background-image: url("../img/project-14.jpg");
+  background-image: url("../img/rdv.jpg");
 }
 
 .item-15 {
-  background-image: url("../img/project-15.jpg");
+  background-image: url("../img/cantineDesTsars.jpg");
 }
 
 @media (min-width: 40em) {
